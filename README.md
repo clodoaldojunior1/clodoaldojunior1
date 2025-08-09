@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Clodoaldo 👋
 
-<!--
-**clodoaldojunior1/clodoaldojunior1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end | Explorando Sistemas Embarcados  
+🚀 Apaixonado por criar soluções inteligentes e eficientes
 
-Here are some ideas to get you started:
+## 🚧 Projetos Recentes
+- [Landing Page Nicole Ramos](link)
+- [Controle de LEDs com Arduino](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+HTML | CSS | JavaScript | React | Arduino | C/C++
+
+📫 Contato: [LinkedIn]([seu-link](https://www.linkedin.com/in/clodoaldo-santos-484318206/)) | [E-mail](mailto:clodoaldosantosmatos@hotmail.com)

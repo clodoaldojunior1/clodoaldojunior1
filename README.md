@@ -29,5 +29,6 @@ Sempre buscando aprender algo novo e aplicar em projetos práticos.
 ---
 
 ## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clodoaldojunior1)](https://github.com/clodoaldojunior1/github-readme-stats)
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dra_

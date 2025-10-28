@@ -25,7 +25,7 @@ Sempre buscando aprender algo novo e aplicar em projetos práticos.
 ---
 
 ## 📂 Projetos em Destaque
-- [Landing Page Nicole Ramos](link-do-repo)
+- [Landing Page Nicole Ramos]([link-do-repo](https://github.com/clodoaldojunior1/nicoleramospage.git))
 ---
 
 ## 📊 GitHub Stats

@@ -1,14 +1,13 @@
 <h1 align="center">👋 Olá, eu sou o Clodoaldo</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-end | 🚀 Explorando Sistemas Embarcados  
-  📍 Manaus, AM  
+  💻 Desenvolvedor Front-end📍 Manaus, AM  
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e inovação, com foco no desenvolvimento Front-end e interesse crescente por sistemas embarcados.  
+Sou apaixonado por tecnologia, com foco no desenvolvimento Front-end e interesse crescente por arquitetura de software.  
 Sempre buscando aprender algo novo e aplicar em projetos práticos.
 
 ---
